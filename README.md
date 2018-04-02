@@ -48,6 +48,12 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Wireframe
+
+Here is the link to the outlined wireframes:
+
+https://www.fluidui.com/editor/live/preview/cF9LU3htS1dUaHJUVUhmeVp0dVZ4cVFLZkxrd3dlOGZwaQ==
+
 ## Credits
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
