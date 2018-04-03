@@ -1,4 +1,4 @@
-**Name of your app** is a ...
+**Found** 
 
 Time spent: **X** hours spent in total
 
