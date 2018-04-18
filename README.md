@@ -21,7 +21,6 @@ The following **stretch** features are implemented:
 - [ ] User can use a tab bar to switch between all products and posts published only by the user. (+2pt)
 - [ ] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling (+2pt)
 - [ ] Show the username and creation time for each post using section headers (+1pt)
-- //[ ] If you use TableView Section Headers to display the the username and creation time, you'll get "sticky headers.”
 - [ ] After the user submits a new post, show a progress HUD while the post is being uploaded to Parse (+1pt)
 - [ ] Allow the logged in user to add a profile photo (+2pt)
 - [ ] Tapping on a post's username goes to that user's profile page (+2pt)
@@ -45,7 +44,7 @@ https://www.fluidui.com/editor/live/preview/cF9LU3htS1dUaHJUVUhmeVp0dVZ4cVFLZkxr
 
 ## Credits
 
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
+We are using Parse for our backend server. 
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
