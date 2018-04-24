@@ -42,6 +42,10 @@ Here is the link to the outlined wireframes:
 
 https://www.fluidui.com/editor/live/preview/cF9LU3htS1dUaHJUVUhmeVp0dVZ4cVFLZkxrd3dlOGZwaQ==
 
+## Model Classes and Properties
+
+Here's the model classes and properties that will be used for our app:
+
 ## Credits
 
 We are using Parse for our backend server. 
