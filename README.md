@@ -50,12 +50,16 @@ itemname
 itemprice
 itemreview
 itemdescription
+location
 
 User
 username
 email
 password
 profilepicture
+location
+
+
 
 ## Credits
 
