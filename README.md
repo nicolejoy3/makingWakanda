@@ -42,6 +42,21 @@ Here is the link to the outlined wireframes:
 
 https://www.fluidui.com/editor/live/preview/cF9LU3htS1dUaHJUVUhmeVp0dVZ4cVFLZkxrd3dlOGZwaQ==
 
+## Model Classes and Properties
+The model classes and properties the app will use are:
+
+Postcell
+itemname
+itemprice
+itemreview
+itemdescription
+
+User
+username
+email
+password
+profilepicture
+
 ## Credits
 
 We are using Parse for our backend server. 
