@@ -25,7 +25,7 @@ The following **stretch** features are implemented:
 - [ ] Allow the logged in user to add a profile photo (+2pt)
 - [ ] Tapping on a post's username goes to that user's profile page (+2pt)
 - [ ] Users can leave a review, and see other people's reviews (+3pt)
-- [ ] Run your app on your phone and use the camera to take the photo (+1pt)
+- [ ] Implement map view of item results (+1pt)
 
 
 ## Video Walkthrough
